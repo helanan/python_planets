@@ -25,3 +25,4 @@ print("------------spacecrafts to deploy----------------")
 launched_spacecrafts = ['Apollo', 'Titan', 'Saturn V', 'Buran', 'Vostok', 'Gemini']
 for launched_spacecraft in launched_spacecrafts:
     print(launched_spacecraft.title())
+# TODO:add visited or landed planets to launched_spacecrafts. Print for each planet which satellites have visited
